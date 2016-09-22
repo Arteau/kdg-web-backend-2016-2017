@@ -26,3 +26,6 @@
 ## Git/hub
 - Interactieve git tutorial: https://try.github.io/levels/1/challenges/1
 
+## PHP
+- Git repository met gratis boeken en andere resources voor verschillende programmeertalen (waaronder PHP): https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#php
+
